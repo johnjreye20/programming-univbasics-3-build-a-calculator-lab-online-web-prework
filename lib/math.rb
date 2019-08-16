@@ -20,4 +20,5 @@ end
 
 def square_root(num)
 square_root(81)
+puts square_root
 end
